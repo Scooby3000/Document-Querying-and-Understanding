@@ -17,8 +17,8 @@ import os
 import pandas as pd
 
 # Global variables for storing parameters
-google_client_id = '672376765801-cqu4oc1h9n01bp4l0fkjbhfmn0t3ulct.apps.googleusercontent.com'
-google_client_secret = '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'
+google_client_id = '**Your ID**'
+google_client_secret = '**Your Secret'
 redirect_uri = 'http://localhost:8501'
 authorization_url = None
 
